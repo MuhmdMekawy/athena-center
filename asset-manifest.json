@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/athena-center/static/css/main.be30e3bd.css",
-    "main.js": "/athena-center/static/js/main.a0f640de.js",
+    "main.js": "/athena-center/static/js/main.bf7f5182.js",
     "static/js/787.c1112931.chunk.js": "/athena-center/static/js/787.c1112931.chunk.js",
     "static/media/celeb.mp4": "/athena-center/static/media/celeb.afc7a16e21b5effc7eee.mp4",
     "static/media/signup_image.png": "/athena-center/static/media/signup_image.d6607cc60720dae05dea.png",
@@ -13,11 +13,11 @@
     "static/media/Vector (3).svg": "/athena-center/static/media/Vector (3).bb44bce47090b159eb6d3a1138cc5d23.svg",
     "static/media/Vector (2).svg": "/athena-center/static/media/Vector (2).0e92accac2c9bd5463958eeb64aef80e.svg",
     "main.be30e3bd.css.map": "/athena-center/static/css/main.be30e3bd.css.map",
-    "main.a0f640de.js.map": "/athena-center/static/js/main.a0f640de.js.map",
+    "main.bf7f5182.js.map": "/athena-center/static/js/main.bf7f5182.js.map",
     "787.c1112931.chunk.js.map": "/athena-center/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be30e3bd.css",
-    "static/js/main.a0f640de.js"
+    "static/js/main.bf7f5182.js"
   ]
 }
