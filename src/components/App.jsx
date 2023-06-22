@@ -169,7 +169,7 @@ function App() {
             direction={i18next.t('dir' , {lng : `${lang}`})}
           />
         } />
-        <Route path='/home' element={<Navigate to='/' />} />
+        <Route path='/home' element={<Navigate to='/login' />} />
       </Routes>
     </React.Fragment>
   )
